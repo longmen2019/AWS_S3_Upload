@@ -1,4 +1,4 @@
-##AWS S3 file Uploader
+## AWS S3 file Uploader
 
 This Python script uploads a local image file to an Amazon S3 bucket.
 
